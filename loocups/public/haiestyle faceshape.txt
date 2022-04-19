@@ -1,0 +1,14 @@
+jaw == down to 6 to lower # left = 58(7),172(6) # right= 288(7),397(6)	
+down ear == sencond point to selected point #  left=123# right=352
+head== top to down second point and third from center # left =68 # right=298
+
+const a = 58;
+const b = 172;
+const c = 288;
+const d = 397;
+const f = 123;
+const g = 352;
+const h = 68;
+const i = 298;
+const j = 10; //top
+const k = 152; //down

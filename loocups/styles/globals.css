@@ -1,0 +1,42 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.logo{
+  object-fit: cover;
+  width: 150px;
+  height: auto;
+  margin-right: 40px;
+  /* filter: contrast(10%); */
+  /* filter: grayscale(100%); */
+  /*  filter: hue-rotate(343deg); */
+  filter: invert(100%);
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+
+
+
+/* css for front page  */
+@import url("./componantStyle/design.css");
+
+@import url("./componantStyle/Mainboard.css");
+@import url("./componantStyle/Pin.css");
+@import url("./componantStyle/Search.css");
